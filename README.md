@@ -3,4 +3,4 @@
 
 Demo: https://themindvirus.github.io/Arena
 
-![screenshot](https://github.com/TheMindVirus/Arena/screenshot.png)
+![screenshot](https://github.com/TheMindVirus/Arena/blob/main/screenshot.png)
